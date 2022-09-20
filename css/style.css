@@ -1,0 +1,45 @@
+body {
+    margin: 5px;
+    background-color: darkorange;
+    font-family:'barlow';
+    margin-left:10vw;
+    margin-right:10vw;
+  }
+  
+  div{
+    background-color: rgba(255,255,255,0.4);
+    padding: 10px;
+    margin: 5px;
+    width: 75vw;
+  }
+  
+  #about{
+    background-color: rgba(255,255,255,0.4);
+    padding: 10px;
+    margin: 5px;
+    width: 75vw;
+  }
+  ul {
+    color: orange;
+    background-color: black;
+    padding: 15px;
+    margin: 30px;
+    margin-bottom: 50px;
+  }
+  
+  img {
+    width: 100%;
+  }
+  
+  h3 {
+    background-color: lightblue
+  }
+  
+  visited {
+    color: red;
+  }
+  
+  th {
+    background-color: lightblue;
+  }
+  
